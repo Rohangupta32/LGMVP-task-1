@@ -1,1 +1,1 @@
-# LGMVP-task-1
+# lgm-vip-task1
